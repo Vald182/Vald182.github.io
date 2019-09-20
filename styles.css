@@ -1,5 +1,9 @@
 body{
-  background: rgb(131,58,180);
-  background: linear-gradient(0deg, rgba(131,58,180,1) 0%, rgba(253,29,29,0.4654236694677871) 50%, rgba(252,176,69,1) 100%);
+  background: rgb(255,255,255);
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 95%);
+  margin: 0;
+  height: 100%;
+  background-size: cover;
 }
+
 
